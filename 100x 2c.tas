@@ -1,6 +1,7 @@
-xRecordCount: 141
+RecordCount: 141
 
 console rmx2 2
+Set, ExtendedVariantMode.DashSpeed, 100
    1
 
 #Start
