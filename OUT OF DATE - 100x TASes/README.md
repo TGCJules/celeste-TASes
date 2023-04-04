@@ -1,6 +1,8 @@
 # celeste-TASes
 A collection of Celeste TAS files 
 
+UPDATE 04/04/2023: Do NOT use the 100x files. Instead use EuniverseCat's repo at https://github.com/EuniverseCat/miscCelesteTAS/tree/master/teleport%20mode
+
 Regarding the 100x Dash Speed TASes:
 The 100x TASes were specifically TASed so that they work in Celeste version 1.4.0.0 and not rely on legacy dash behaviour. I understand the Euni
 has already published several 100x Dash Speed TASes (under the name "Teleport Mode", which is a slightly incorrect name and I will only be calling it
