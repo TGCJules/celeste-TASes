@@ -1,0 +1,21 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,0 - Prologue,Start
+
+Read,Load1A
+
+Read,1a_dream_blocks,Start
+
+Read,LoadA
+
+Read,2a_dream_blocks,Start
+
+Read,LoadANoCollects
+
+Read,3a_dream_blocks,Start
+
+Read,LoadANoCollects
+
+Read,4a_dream_blocks,Start

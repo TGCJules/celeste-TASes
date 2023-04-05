@@ -1,0 +1,223 @@
+RecordCount: 254
+
+console load 2
+   1
+#Start
+ 190
+
+   5,R,Z
+   1,R,J
+   8,R
+   1,R,J
+   5,R,D
+
+  40
+#lvl_0
+   8,R,D
+   5,R,Z
+   9,R
+   4,R,J
+  10,R
+   1,R,J
+  10,R
+   5,R,X
+  22
+   2,R,J
+  13,R
+   2,R
+
+  40
+#lvl_1
+   5,R,Z
+   9
+   7,R,J
+   5,R,X
+  21
+   5,R,X
+  18
+   5,R,Z
+   3
+   1,R,J
+  14,R
+
+  40
+#lvl_2
+   4,R
+   5,R,Z
+   9,R
+   6,R,J
+   5,R,Z
+  50
+   5,R,Z
+   1,R,J
+  12,R
+   1,R,K
+   8,R
+
+  40
+#lvl_11
+   1
+   5,R,X
+  14
+   1,R,J
+   4,R
+   5,R,Z
+  21
+   1,R,J
+  10,R
+   5,R,Z
+  32
+   5,R,U,X
+  18
+   5,R,Z
+   9,R,J
+
+  40
+#lvl_12b
+   3,R,J
+   5,R,U,X
+  29,R,D
+   5,R,Z
+  10,R,J
+   8,R
+  17,J
+   2,R,K,G
+   5,R,Z
+  43
+   4,D,Z
+   2,R
+  44
+   4,R
+
+  40
+#lvl_12
+  18,R
+   5,R,D,X
+   9
+   4,R,J
+   5,R,X
+  19
+   2,R,J
+   5,R,Z
+  32
+   5,R,D,X
+   9
+   1,R,J
+  19,R
+
+  40
+#lvl_13
+  18,R,D
+   5,R,Z
+  24
+   1,S
+   1,D,J
+
+#lvl_end_0
+ 208
+   5,R,Z
+   1,R,J
+   8,R
+   1,R,J
+   5,R,D
+
+  40
+#lvl_end_1
+   8,R,D
+   5,R,Z
+   9,R
+   4,R,J
+  10,R
+   1,R,J
+  10,R
+   5,R,X
+  24
+   2,R,J
+  13,R
+   2,R
+
+  40
+#lvl_end_2
+#dipshit learn to check whether stuff fucks up or not
+#fix this and resync it
+   5,R,Z
+   9
+   1,R,J
+   6,R
+   5,R,X
+  37
+   5,R,Z
+   3,R,J
+  15,R
+  40
+#lvl_end_3
+   1
+   5,R,Z
+   9
+   1,R,J
+   8,R
+   2,R,K,G
+  12,R
+   5,R,Z
+  33
+   5,R,Z
+   5,R,J
+  16,R
+   1,R,J
+   2,R
+
+  40
+#lvl_end_4
+   5,R,Z
+  15
+  13,R,D
+   5,R,Z
+  54
+   6,R,J
+   5,R,Z
+   9
+   4,R,J
+  11,R
+
+  40
+#lvl_end_3b
+   1,R
+   5,R,Z
+  17,R,D
+  13,R
+   5,R,Z
+  28
+   5,R,Z
+  48
+   5,R,Z
+  15
+   5,R,Z
+   9,R,J
+  16,R
+   5,R,Z
+  12,R,J
+
+  40
+#lvl_end_5
+  19,R
+   5,R,Z
+  35
+   5,R,Z
+   2,R,J
+  19,R
+   2,R,J
+   5,R,U,X
+  28
+   5,R,Z
+  10,R,J
+   6,R
+
+  40
+#lvl_end_6
+   7,R,D
+  17,D
+   5,R,Z
+  20
+   1,S
+   1,D,J
+   18
