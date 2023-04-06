@@ -1,4 +1,4 @@
-RecordCount: 573
+RecordCount: 630
 
 console load 1
    1
@@ -153,17 +153,18 @@ console load 1
 
   40
 #lvl_6c
-   2
+   1
    5,R,X
   15
    5,R,U,X
-  13,R,U
+  10,R,U
    8,R,U,J
    5,R,U,X
   14,R,U
+   4
    5,R,Z
-   1,R,J
-  11,R
+   2,R,J
+   9,R
    5,R,U,X
   13,R,U
    5,U,X
@@ -312,4 +313,4 @@ console load 1
    1,D,J
   18
 
-#0:42.721(2513)
+#0:42.704(2512)
