@@ -1,115 +1,117 @@
-RecordCount: 254
+RecordCount: 380
 
 console load 2
    1
 #Start
  190
-
    5,R,Z
    1,R,J
-   8,R
+   7,R
    1,R,J
    5,R,D
 
   40
 #lvl_0
-   8,R,D
+   9,R,D
+   2,R,J
+  15,R
    5,R,Z
    9,R
    4,R,J
-  10,R
-   1,R,J
-  10,R
+   9,R
    5,R,X
-  22
-   2,R,J
-  13,R
-   2,R
+  12
+   4,R,J
+   2,R,K
+  12,R
 
   40
 #lvl_1
    5,R,Z
    9
-   7,R,J
+   5,R,J
    5,R,X
-  21
+  17
    5,R,X
-  18
+  23
    5,R,Z
-   3
+   2
    1,R,J
   14,R
 
   40
 #lvl_2
    4,R
-   5,R,Z
-   9,R
+   1,R,J
+  14,R
    6,R,J
-   5,R,Z
+   5,R,X
   50
    5,R,Z
    1,R,J
   12,R
    1,R,K
-   8,R
+   2,R
 
   40
 #lvl_11
    1
    5,R,X
-  14
-   1,R,J
+   9
+   4,R,J
    4,R
    5,R,Z
-  21
-   1,R,J
+  18
+   4,R,J
   10,R
    5,R,Z
-  32
+  31
    5,R,U,X
-  18
+  20
    5,R,Z
    9,R,J
 
   40
 #lvl_12b
-   3,R,J
+   2,R,J
    5,R,U,X
   29,R,D
    5,R,Z
   10,R,J
    8,R
-  17,J
-   2,R,K,G
-   5,R,Z
-  43
-   4,D,Z
+  13,J
+   5,R,X
+  45
+   5,R,X
    2,R
-  44
-   4,R
+  41
+   4,R,J
+   3,R
 
   40
 #lvl_12
-  18,R
+   4,R
    5,R,D,X
-   9
-   4,R,J
+  22
    5,R,X
-  19
+  22
    2,R,J
    5,R,Z
   32
    5,R,D,X
    9
    1,R,J
-  19,R
+   9,R
+   5,R,D,X
+   8
 
   40
 #lvl_13
-  18,R,D
+  17,R,D
    5,R,Z
-  24
+  12
+   4,R,J
+   3,R,K
    1,S
    1,D,J
 
@@ -117,29 +119,27 @@ console load 2
  208
    5,R,Z
    1,R,J
-   8,R
+   7,R
    1,R,J
    5,R,D
 
   40
 #lvl_end_1
-   8,R,D
+   9,R,D
+   2,R,J
+  15,R
    5,R,Z
    9,R
    4,R,J
-  10,R
-   1,R,J
-  10,R
+   9,R
    5,R,X
-  24
-   2,R,J
-  13,R
-   2,R
+  12
+   4,R,J
+   2,R,K
+  12,R
 
   40
 #lvl_end_2
-#dipshit learn to check whether stuff fucks up or not
-#fix this and resync it
    5,R,Z
    9
    1,R,J
@@ -149,53 +149,56 @@ console load 2
    5,R,Z
    3,R,J
   15,R
+
   40
 #lvl_end_3
    1
-   5,R,Z
-   9
+   5,R,J
+   5,R,D,X
+   5
    1,R,J
    8,R
    2,R,K,G
   12,R
    5,R,Z
-  33
-   5,R,Z
-   5,R,J
-  16,R
-   1,R,J
-   2,R
+  28
+   4,R,J
+   3,R,K
+  15,R
 
   40
 #lvl_end_4
    5,R,Z
   15
-  13,R,D
+  11,R,D
    5,R,Z
-  54
-   6,R,J
+  52
+   5,R,J
+   1,R,K
+   5,R
    5,R,Z
    9
    4,R,J
-  11,R
+   4,R
 
   40
 #lvl_end_3b
-   1,R
-   5,R,Z
-  17,R,D
-  13,R
-   5,R,Z
-  28
-   5,R,Z
+   4,R
+   5,R,X
+  14,R,D
+   2,J
+  10,R
+   5,R,X
+  27
+   5,R,X
   48
-   5,R,Z
-  15
-   5,R,Z
+   5,R,X
+  18
+   5,R,X
    9,R,J
   16,R
    5,R,Z
-  12,R,J
+   9,R,J
 
   40
 #lvl_end_5
@@ -204,7 +207,7 @@ console load 2
   35
    5,R,Z
    2,R,J
-  19,R
+  17,R
    2,R,J
    5,R,U,X
   28
@@ -214,10 +217,12 @@ console load 2
 
   40
 #lvl_end_6
-   7,R,D
-  17,D
+  18,R,D
    5,R,Z
-  20
+  12
+   4,R,J
+   4,R,K
    1,S
    1,D,J
-   18
+  18
+#0:36.091(2123)
