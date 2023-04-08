@@ -1,4 +1,4 @@
-RecordCount: 650
+RecordCount: 737
 
 console load 3
    1
@@ -115,34 +115,33 @@ console load 3
 
   40
 #lvl_01-c
-   1
-   5,R,Z
-  18
-   5,R,D,Z
-  11
-   6,R,J
-  33,R,D
-   5,R,J
    3
+   5,R,D,X
+  21,D
    5,R,Z
-  29,R
-   4,R,J,G
-  10,R,D
-   5,R,X
-   6
+  15
+   4,R,J
+  14,R,D
+   5,R,Z
+  34,R,J
+   3,R,K,G
+   7,R,D
+   5,R,Z
+   7
 
   40
 #lvl_02-c
-  16,R,J
+  13,R,J
    5,U,X
   22
-   2,R,J
+   1,R,J
    5,R,X
-  48
+  46
+   4,R,J
    5,R,X
-  20
+  19
    5,R,X
-  59
+  58
    5,R,D,X
   16,R,D
   20,D
@@ -151,82 +150,75 @@ console load 3
 
   40
 #lvl_04-c
-
   10,R
    5,U,X
   23
    5,U,X
-  14
+   8
+   5,R,J
 
   40
 #lvl_04-d
-   6
+   5
    1,S
    1,D,J
   43
    5,L,Z
-  38
-   7,L,J
+  34
+  10,L,J
    5,L,X
    7
 
   40
-
 #lvl_02-d
   16,L,J
    5,L,Z
-  20
-   5,L,J
+  16
+   4,L,J
+   1,L,K
   10,L
    5,L,U,X
-  10
-  15,L,J
+  15
+   8,L,J
    5,L,X
-  39,L,D
+  42,L
    2,L,J
    5,L,Z
-  23
+  22,L,D
    5,L,X
-   8
+   9
   16,J
    5,L,X
   12,R,G
   10,R,J,G
-   7,R,K,G
-   7,L,J
+   3,R,K,G
+   2,L,J
    5,L,Z
-   9,D
-   1,J,G
-  32,D
-   5,L,X
-  10
-  22,L,J
+  23,L
+   5,L,J
+   7,L
    5,L,Z
-  30,L
-   5,L,U,X
+  27,L
+   5,L,Z
   34,L
-   5,L,Z
-  34,L,D
    5,L,U,X
-  12
+  42,L,D
+   5,L,U,X
+   9
+   4,L,K
+   1,L
 
   40
-
 #lvl_00-d
    1,S
    1,D,J
   38
    5,L,U,X
-  11
-   5,L,Z
-  15,L,J
-  23,L,D
-  14,L,J
-   5,U,X
-  10,U
-   8,R,J
-  10,L,K
-   2,R,J
+   7
+   4,L,J
+  36,L,K
+   5,L,U,Z
+  29
 
   40
 #lvl_roof00
@@ -469,4 +461,4 @@ console load 3
    1,D,J
   18
 
-#1:15.973(4469)
+#1:14.341(4373)
