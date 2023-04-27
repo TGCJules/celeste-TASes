@@ -1,4 +1,4 @@
-RecordCount: 967
+RecordCount: 988
 
 console load 4
    1
@@ -184,10 +184,9 @@ console load 4
    3,R,J
   18,R
    1,R,J
-   6,R
+   5,R
 
   43
-
 #lvl_a-08
    8,R,D
    5,R,Z
@@ -201,19 +200,18 @@ console load 4
    7,R
   13,R,J
    5,R,U,X
-  23,R,D
-   2,R
-   5,L,X
-   6
-  15,R,J
-  14,R
+  33,R,D
+  13,R,J
+   5,R,U,X
+   9,R
+   5,R
    5,U,X
   10
    7,L,U
    5,U,X
    2
    1,R,J
-   6
+   6,R
 
   40
 
